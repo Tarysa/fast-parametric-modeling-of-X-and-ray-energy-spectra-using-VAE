@@ -5,6 +5,7 @@
 
 Official implementation of **A new generative framework for fast parametric modeling of X− and γ−ray energy spectra using VAE**
 
+<<<<<<< HEAD
 📁 Project Structure
 
 ```text
@@ -73,3 +74,5 @@ Make sure the corresponding model weights are available in the weights/ director
 ```text
 I. Meleshenkovskii, T. Sendra, E. Mauerhofer, V. Vigneron
 ```
+=======
+>>>>>>> 718bac0eb78b2e642ff5872120a5937ddd32b161

@@ -1,0 +1,21 @@
+VAE Model Evaluation Summary
+==============================
+
+Dataset: 3
+Latent dimension: 10
+Model version: 2
+
+Reconstruction Errors (MAE on denormalized data):
+  Train: 112.186259
+  Val:   183.670389
+  Test:  222.368505
+
+Reconstruction Errors (MSE on normalized data):
+  Train: 0.000227
+  Val:   0.000715
+  Test:  0.000328
+
+Parameter Regression Errors:
+  Train: 0.279202
+  Val:   0.321825
+  Test:  0.303199
